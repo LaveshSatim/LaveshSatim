@@ -3,7 +3,8 @@
 </h1>
 
 ## Hey! 👋
-I'm Lavesh, Software Developer who loves to fix a BUG :-)
+I'm Lavesh, 
+Software Developer who loves to fix a BUG :-)
 
 
 
