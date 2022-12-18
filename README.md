@@ -4,15 +4,16 @@
 
 ## Hey! 👋
 I'm Lavesh, 
-Software Developer who loves to fix a BUG :-)
+Software Developer who loves to solve the problem!
 
 
 
 ## Skills
+# FrontEnd
 - Java, J2EE
 - SQL, PSQL, MongoDB
 - Spring Boot, Spring, Hibernate, Microservice
-- HTML, CSS, JavaScript, React Js
+- HTML, CSS, JavaScript, jQuery, Ajax, Axios, thymeleaf, JSP 
 - Linux, Bash scripting
 
 ## Contacts
