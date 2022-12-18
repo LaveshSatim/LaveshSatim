@@ -2,7 +2,7 @@
  LAVESH SATIM
 </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaveshSatim)](https://github.com/LaveshSatim/github-readme-stats)
 
 ## 😊, Hey! 👋
 I'm Lavesh,
