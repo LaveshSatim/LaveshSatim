@@ -2,19 +2,33 @@
  LAVESH SATIM
 </h1>
 
-## Hey! 👋
+## 😊, Hey! 👋
 I'm Lavesh, 
 Software Developer who loves to solve the problem!
 
 
 
 ## Skills
-# FrontEnd
+# FrOnTeNd 
+- HTML, CSS, JavaScript, jQuery, Ajax, Axios, thymeleaf, JSP
+
+# BaCkEnD 🔙 
 - Java, J2EE
-- SQL, PSQL, MongoDB
-- Spring Boot, Spring, Hibernate, Microservice
-- HTML, CSS, JavaScript, jQuery, Ajax, Axios, thymeleaf, JSP 
-- Linux, Bash scripting
+- Spring Framework (spring {core, jdbc, aop, tx, MVC, datajpa, ORM, security} ) and SPRING-BOOT 👑 
+- HIBERNATE
+- SAOP REST MICROSERVICE
+
+# DaTaBaSe
+- MYSQL POSTGRES MONGODB
+
+# ToOlS ⚙ 
+- (🏢 build tools) MAVEN GRADLE 🐜 
+- (testing fw) junit mockito
+- DESIGN PATTERNS
+- DOCKER KUBERNATES
+- Linux, WINDOWS
+- Bash scripting
 
 ## Contacts
-- [Lavesh Satim](https://www.youtube.com/channel/UCwkjXPDHYzZT7hCce-AnCLQ)
+- [youTube](https://www.youtube.com/channel/UCwkjXPDHYzZT7hCce-AnCLQ)
+- [LinkedIn]
