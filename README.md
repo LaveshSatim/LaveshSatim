@@ -2,9 +2,9 @@
  LAVESH SATIM
 </h1>
 
-[![Lavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaveshSatim)]([https://github.com/LaveshSatim/github-readme-stats](https://github.com/LaveshSatim))
+[![Lavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaveshSatim)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaveshSatim&layout=compact)](https://github.com/LaveshSatim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaveshSatim&layout=compact)]
 
 ## 😊, Hey! 👋
 I'm Lavesh,
