@@ -11,7 +11,7 @@ Software Developer who loves to solve the problem!
 
 ## Skills
 # FrOnTeNd 
-- HTML, CSS, JavaScript, jQuery, Ajax, Axios, thymeleaf, JSP
+- HTML, CSS, JavaScript,JSP
 
 # BaCkEnD 🔙 
 - Java, J2EE
